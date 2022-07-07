@@ -1,15 +1,22 @@
-<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
+<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Enthusiast</a>, <a href="https://www.behance.net/nextgen_v"> Data Analyst</a>, <a href="https://www.behance.net/nextgen_v">Graphic Designer</a></h2>
+
+- 🔭 I’m currently working as a IT Support Specialist/Cybersecurity Specialiast
+- 🌱 I’m currently learning more on Cybersecurity, Social Engineering and Data Science for Machine Learning
+- 👯 I’m looking to collaborate on Cybersecurity nad Data Science Projects
+- 🤔 I’m looking for help with securing an Entry level role in Cybersecurity/Information Security/Junior Pentester
+- 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
+- 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 
 <h2>Cybersecurity Projects</h2>
 
 - <b>PowerShell</b>
-  - [FIM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FIM](https://#)
 
 <b></b>
 - <b>Python</b>
-  - [Keylogger Project I](https://github.com/davidadabao/Keylogger-Project)
-  - [Project II](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Project III](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
+  - [Project II](https://#)
+  - [Project III](https://#)
 
 
 <b><h2>Certifications & Training </h2></b>
@@ -24,10 +31,9 @@
   - [Behance](https://www.behance.net/nextgen_v)
   - [Instagram](https://www.instagram.com/nextgen_visionaire)
 
-<h2> YouTube Videos</h2>
+<h2>YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://#)
-- [A Day in the Life of a Cybersecurity Anayst](https://#)
+- [How i got into Cybersecurity Starting From Zero](https://#)
 
 <h2>Connect with me:</h2>
 
