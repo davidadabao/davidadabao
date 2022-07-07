@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a IT Support Specialist
 - 🌱 I’m currently learning more on Cybersecurity, Social Engineering and Data Science for Machine Learning
 - 👯 I’m looking to collaborate on Cybersecurity nad Data Science Projects
-- 🤔 I’m looking forward to securing an Entry level role in Cybersecurity/Information Security/Junior Pentester
+- 🤔 I’m looking forward to securing an Entry level role in SOC, Information/Security Analyst or Junior Pentester
 - 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
@@ -48,18 +48,3 @@
 [instagram]: https://www.instagram.com/davidadabao
 [instagram]: https://www.instagram.com/nextgen_visionaire
 [linkedin]: www.linkedin.com/in/davidadabao
- 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
