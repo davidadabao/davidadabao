@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a IT Support Specialist
 - 🌱 I’m currently learning more on Cybersecurity, Social Engineering and Data Science for Machine Learning
-- 👯 I’m looking to collaborate on Cybersecurity nad Data Science Projects
+- 👯 I’m looking to collaborate on Cybersecurity and Data Science Projects
 - 🤔 I’m looking forward to securing an Entry level role in SOC, Information/Security Analyst or Junior Pentester
 - 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
