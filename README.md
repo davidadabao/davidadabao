@@ -1,4 +1,4 @@
-<h2>Hi, I'm David! <br/><a href="https://github.com/davidadabao/">Programmer</a>, <a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
+<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
 
 <h2>Cybersecurity Projects:</h2>
 
