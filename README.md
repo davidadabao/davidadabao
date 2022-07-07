@@ -1,15 +1,13 @@
-<h2>Hi, I'm David! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
+<h2>Hi, I'm David! <br/><a href="https://github.com/davidadabao/">Programmer</a>, <a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
 
 <h2>Cybersecurity Projects:</h2>
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 - <b>PowerShell</b>
 - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Keylogger Project)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Certifications & Training </h2>
-
 - [Introduction to Cybersecurity - Issued by Regenesys Business School](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Introduction to Cybersecurity - Issued by CISCO](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Network Security Associate (NSE 1,2,3) - Issued by Fortinet](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635495474723)
