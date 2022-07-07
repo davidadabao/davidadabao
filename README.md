@@ -1,9 +1,9 @@
 <h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Enthusiast</a>, <a href="https://www.behance.net/nextgen_v"> Data Analyst</a>, <a href="https://www.behance.net/nextgen_v">Graphic Designer</a></h2>
 
-- 🔭 I’m currently working as a IT Support Specialist/Cybersecurity Specialiast
+- 🔭 I’m currently working as a IT Support Specialist
 - 🌱 I’m currently learning more on Cybersecurity, Social Engineering and Data Science for Machine Learning
 - 👯 I’m looking to collaborate on Cybersecurity nad Data Science Projects
-- 🤔 I’m looking for help with securing an Entry level role in Cybersecurity/Information Security/Junior Pentester
+- 🤔 I’m looking forward to securing an Entry level role in Cybersecurity/Information Security/Junior Pentester
 - 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
