@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with securing an Entry level role in Cybersecurity/Information Security/Junior Pentester
 - 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
+- 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
 
 <h2>Cybersecurity Projects</h2>
 
