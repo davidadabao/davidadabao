@@ -15,7 +15,7 @@
 
 <b></b>
 - <b>Python</b>
-  - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
+  - [Keylogger](https://github.com/davidadabao/Keylogger-Project)
   - [Port Scanner](https://github.com/davidadabao/PortScanner)
   - [Project III](https://#)
 
