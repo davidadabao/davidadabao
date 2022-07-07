@@ -1,6 +1,6 @@
 <h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qAr">YouTuber</a></h2>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects</h2>
 
 - <b>PowerShell</b>
   - [FIM](https://github.com/joshmadakor1/Algorithms-Practice)
@@ -18,7 +18,13 @@
 - [Introduction to Cybersecurity - Issued by CISCO](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Key Threats and Mitigation Strategies for Financial Services - Issued by Purple Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>Graphic Design Portfolios</h2>
+
+- <b>Behance</b>
+  - [Behance](https://www.behance.net/nextgen_v)
+  - [Instagram](https://www.instagram.com/nextgen_visionaire)
+
+<h2> YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://#)
 - [A Day in the Life of a Cybersecurity Anayst](https://#)
