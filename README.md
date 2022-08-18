@@ -39,7 +39,7 @@
 
 <h2>YouTube Videos</h2>
 
-- [How i got into Cybersecurity Starting From Zero](https://#)
+- [How i got into Cybersecurity](https://#)
 
 <h2>Connect with me:</h2>
 
