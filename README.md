@@ -15,8 +15,8 @@
 
 <b></b>
 - <b>Python</b>
-  - [Keylogger](https://github.com/davidadabao/Keylogger-Project)
-  - [Port Scanner](https://github.com/davidadabao/PortScanner)
+  - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
+  - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
   - [How to Create a QR Code with Python](https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python)
 
 
