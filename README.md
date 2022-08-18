@@ -26,6 +26,11 @@
 - [Introduction to Cybersecurity - Issued by CISCO](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Key Threats and Mitigation Strategies for Financial Services - Issued by Purple Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 
+<h2>Data Science - Machine Learning</h2>
+
+- <b>Behance</b>
+  - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
+  
 <h2>Graphic Design Portfolios</h2>
 
 - <b>Behance</b>
