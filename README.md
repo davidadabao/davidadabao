@@ -16,7 +16,7 @@
 <b></b>
 - <b>Python</b>
   - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
-  - [How to scan your network computer for Vulnerabilities](https://#)
+  - [How to scan a network computer for Vulnerabilities](https://#)
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
   - [How to Create a QR Code with Python](https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python)
 
