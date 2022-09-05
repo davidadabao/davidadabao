@@ -21,10 +21,11 @@
 
 
 <b><h2>Certifications & Training </h2></b>
+- [Introduction to Cybersecurity - Delivered by Regenesys Business School](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635501199326)
+- [Introduction to Cybersecurity - Issued by CISCO Networking Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Network Security Associate (NSE 1,2,3) - Delivered by Fortinet](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635495474723)
-- [Introduction to Cybersecurity - Delivered by Regenesys Business School](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
-- [Introduction to Cybersecurity - Issued by CISCO](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Key Threats and Mitigation Strategies for Financial Services - Issued by Purple Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
+
 
 <h2>Data Science - Machine Learning</h2>
 
