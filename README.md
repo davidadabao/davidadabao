@@ -16,6 +16,7 @@
 <b></b>
 - <b>Python</b>
   - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
+  - [How to scan your network computer for Vulnerabilities](https://#)
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
   - [How to Create a QR Code with Python](https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python)
 
@@ -49,8 +50,8 @@
 [<img align="left" alt="davidadabao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="davidadabao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/davidadabao
-[youtube]: https://www.youtube.com/channel/UCCIqKX-BYIaBTzLJxV_W6qA
-[instagram]: https://www.instagram.com/davidadabao
-[instagram]: https://www.instagram.com/nextgen_visionaire
 [linkedin]: www.linkedin.com/in/davidadabao
+[youtube]: https://www.youtube.com/channel/UCndvThG3X5CYgUh9eIy_dpA
+[twitter]: https://twitter.com/davidadabao
+[instagram]: https://www.instagram.com/nextgen_visionaire
+
