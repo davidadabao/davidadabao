@@ -1,20 +1,24 @@
-<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> Data Analyst</a>, <a href="https://www.behance.net/nextgen_v">Graphic Designer</a></h2>
- Cybersecurity Enthusiast</a>, <a href="https://www.behance.net/nextgen_v"> 
+<h2>Hi, I'm David! - Data Analyst and Cybersecurity Enthusiast</h2> 
   
-- 🔭 I’m currently working as a IT Support Specialist
-- 🌱 I’m currently learning more on Data Analysis and Data Engineering
-- 👯 I’m looking to collaborate on Data Science Projects
+- 🔭 I’m currently working as a Data Analyst Support Team Member
+- 🌱 I’m currently learning more on Data Analysis, Data Science and Data Engineering
+- 👯 I’m looking to collaborate on Data Analysis and Data Science Projects
 - 🤔 I’m looking forward to securing an Entry level role as a Data Analyst, Data Scientist or Data Engineer
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
 
 <h2>Data Analysis Projects</h2>
 
+- <b>Project 1</b>
+  - [FIM](https://#)
 - <b>PowerShell</b>
   - [FIM](https://#)
+- <b>PowerShell</b>
+  - [FIM](https://#)
+    
 <h2>Data Science - Machine Learning</h2>
 
-- <b>Behance</b>
+- <b>Prediction of ######</b>
   - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
 
 <b></b>
