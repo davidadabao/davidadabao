@@ -1,10 +1,10 @@
-<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> IT Support Specialist/Cybersecurity Enthusiast</a>, <a href="https://www.behance.net/nextgen_v"> Data Analyst</a>, <a href="https://www.behance.net/nextgen_v">Graphic Designer</a></h2>
-
+<h2>Hi, I'm David! <br/><a href="www.linkedin.com/in/davidadabao"> Data Analyst</a>, <a href="https://www.behance.net/nextgen_v">Graphic Designer</a></h2>
+ Cybersecurity Enthusiast</a>, <a href="https://www.behance.net/nextgen_v"> 
+  
 - 🔭 I’m currently working as a IT Support Specialist
-- 🌱 I’m currently learning more on Cybersecurity, Social Engineering and Data Science for Machine Learning
-- 👯 I’m looking to collaborate on Cybersecurity and Data Science Projects
-- 🤔 I’m looking forward to securing an Entry level role in SOC, Information/Security Analyst or Junior Pentester
-- 💬 Ask me about anaything related to Cybersecurity and Data Science, i would be happy to help
+- 🌱 I’m currently learning more on Data Analysis and Data Engineering
+- 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking forward to securing an Entry level role as a Data Analyst, Data Scientist or Data Engineer
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
 
@@ -36,10 +36,6 @@
 - <b>Behance</b>
   - [Behance](https://www.behance.net/nextgen_v)
   - [Instagram](https://www.instagram.com/nextgen_visionaire)
-
-<h2>YouTube Videos</h2>
-
-- [How i got into Cybersecurity](https://#)
 
 <h2>Connect with me:</h2>
 
