@@ -8,10 +8,14 @@
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
 
-<h2>Cybersecurity Projects</h2>
+<h2>Data Analysis Projects</h2>
 
 - <b>PowerShell</b>
   - [FIM](https://#)
+<h2>Data Science - Machine Learning</h2>
+
+- <b>Behance</b>
+  - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
 
 <b></b>
 - <b>Python</b>
@@ -26,12 +30,6 @@
 - [Introduction to Cybersecurity - Issued by CISCO Networking Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Network Security Associate (NSE 1,2,3) - Delivered by Fortinet](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635495474723)
 - [Key Threats and Mitigation Strategies for Financial Services - Issued by Purple Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
-
-
-<h2>Data Science - Machine Learning</h2>
-
-- <b>Behance</b>
-  - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
   
 <h2>Graphic Design Portfolios</h2>
 
