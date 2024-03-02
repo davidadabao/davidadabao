@@ -16,13 +16,15 @@
 - <b>PowerShell</b>
   - [FIM](https://#)
     
-<h2>Data Science - Machine Learning</h2>
+<h2>Data Science - Machine Learning Prediction</h2>
 
 - <b>Prediction of ######</b>
   - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
 
+<h2>Python Projects - Cybersecurity</h2>
+
 <b></b>
-- <b>Python</b>
+
   - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
   - [How to scan a network computer for Vulnerabilities](https://#)
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
