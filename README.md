@@ -13,8 +13,11 @@
   - [FIM](https://#)
 - <b>PowerShell</b>
   - [FIM](https://#)
-- <b>PowerShell</b>
-  - [FIM](https://#)
+- <b>HR Data Analysis</b>
+  - [HR Data Project](https://github.com/davidadabao/HR-Data-Project)
+- <b>HR Data Analysis</b>
+  - [HR Data Project](https://github.com/davidadabao/HR-Data-Project)
+  
     
 <h2>Data Science - Machine Learning Prediction</h2>
 
