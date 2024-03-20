@@ -15,8 +15,8 @@
   - [FIM](https://#)
 - <b>HR Data Analysis</b>
   - [HR Data Project](https://github.com/davidadabao/HR-Data-Project)
-- <b>HR Data Analysis</b>
-  - [HR Data Project](https://github.com/davidadabao/HR-Data-Project)
+- <b>Supermarket Sales</b>
+  - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
   
     
 <h2>Data Science - Machine Learning Prediction</h2>
