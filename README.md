@@ -17,6 +17,8 @@
   - [HR Data Project](https://github.com/davidadabao/HR-Data-Project)
 - <b>Supermarket Sales</b>
   - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
+- <b>COVID-19 Vaccine Tracker</b>
+  - [Supermarket Sales](https://github.com/davidadabao/COVID-19-Global-Vaccine-Tracker)
   
     
 <h2>Data Science - Machine Learning Prediction</h2>
