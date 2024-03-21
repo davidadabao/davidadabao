@@ -13,8 +13,8 @@
   - [FIM](https://#)
 - <b>Annual Sales Project</b>
   - [Annual Sales Project](https://github.com/davidadabao/Annual-Sale-Report)
-- <b>HR Data Analysis Project</b>
-  - [HR Data Analysis Project](https://github.com/davidadabao/HR-Data-Project)
+- <b>HR - End of Year Report Project</b>
+  - [HR - End of Year Report Project](https://github.com/davidadabao/HR-Data-Project)
 - <b>Supermarket Sales</b>
   - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
 - <b>COVID-19 Vaccine Tracker</b>
