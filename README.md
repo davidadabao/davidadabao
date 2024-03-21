@@ -14,7 +14,7 @@
 - <b>Annual Sales Project</b>
   - [Annual Sales Project](https://github.com/davidadabao/Annual-Sale-Report)
 - <b>HR - End of Year Report Project</b>
-  - [HR - End of Year Report Project](https://github.com/davidadabao/HR-Data-Project)
+  - [HR - End of Year Report Project](https://github.com/davidadabao/HR-End-of-Year-Report-Project)
 - <b>Supermarket Sales</b>
   - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
 - <b>COVID-19 Vaccine Tracker</b>
