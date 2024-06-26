@@ -17,7 +17,6 @@
 
 <h2>Data Analysis Projects</h2>
 
-- <b>Project 1</b>
 - <b>Annual Sales Project</b>
   - [Annual Sales Project](https://github.com/davidadabao/Annual-Sale-Report)
 - <b>HR - End of Year Report Project</b>
