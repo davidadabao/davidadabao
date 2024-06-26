@@ -1,32 +1,12 @@
-<h2>Hi, I'm David! - Data Analyst and Cybersecurity Enthusiast</h2> 
+<h2>Hi, I'm David! - SOC Analyst and Cybersecurity Enthusiast</h2> 
   
-- 🔭 I’m currently working as a Data Analyst Support Team Member
+- 🔭 I’m looking forward to securing an Entry level role as a SOC Analyst
 - 🌱 I’m currently learning more on Data Analysis, Data Science and Data Engineering
-- 👯 I’m looking to collaborate on Data Analysis and Data Science Projects
-- 🤔 I’m looking forward to securing an Entry level role as a Data Analyst, Data Scientist or Data Engineer
+- 👯 I’m looking to collaborate on Cybersecurity Projects
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
 
-<h2>Data Analysis Projects</h2>
-
-- <b>Project 1</b>
-  - [FIM](https://#)
-- <b>Annual Sales Project</b>
-  - [Annual Sales Project](https://github.com/davidadabao/Annual-Sale-Report)
-- <b>HR - End of Year Report Project</b>
-  - [HR - End of Year Report Project](https://github.com/davidadabao/HR-End-of-Year-Report-Project)
-- <b>Supermarket Sales</b>
-  - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
-- <b>COVID-19 Vaccine Tracker</b>
-  - [COVID-19 Global Vaccine Tracker](https://github.com/davidadabao/COVID-19-Global-Vaccine-Tracker)
-  
-    
-<h2>Data Science - Machine Learning Prediction</h2>
-
-- <b>Prediction of ######</b>
-  - [Making Prediction with Logistic Regression](https://github.com/davidadabao/Prediction-with-Logistic-Regression)
-
-<h2>Python Projects - Cybersecurity</h2>
+<h2>Cybersecurity Projects</h2>
 
 <b></b>
 
@@ -35,8 +15,20 @@
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
   - [Create a QR Code with Python](https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python)
 
+<h2>Data Analysis Projects</h2>
+
+- <b>Project 1</b>
+- <b>Annual Sales Project</b>
+  - [Annual Sales Project](https://github.com/davidadabao/Annual-Sale-Report)
+- <b>HR - End of Year Report Project</b>
+  - [HR - End of Year Report Project](https://github.com/davidadabao/HR-End-of-Year-Report-Project)
+- <b>Supermarket Sales</b>
+  - [Supermarket Sales](https://github.com/davidadabao/Supermarket-Sales)
+- <b>COVID-19 Vaccine Tracker</b>
+  - [COVID-19 Global Vaccine Tracker](https://github.com/davidadabao/COVID-19-Global-Vaccine-Tracker)
 
 <b><h2>Certifications & Training </h2></b>
+- [Google Cybersecurity Professional Certification - Google Career Certificates](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635501199326)
 - [Introduction to Cybersecurity - Delivered by Regenesys Business School](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635501199326)
 - [Introduction to Cybersecurity - Issued by CISCO Networking Academy](https://www.credly.com/badges/f2acd627-5b31-47c7-81ad-23d340ac4f41/linked_in?t=re8cfz)
 - [Network Security Associate (NSE 1,2,3) - Delivered by Fortinet](https://www.linkedin.com/in/davidadabao/overlay/experience/1907725123/multiple-media-viewer/?treasuryMediaId=1635495474723)
