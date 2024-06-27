@@ -9,7 +9,7 @@
 <h2>Cybersecurity Projects</h2>
 
 <b></b>
-
+  - [Wazuh SIEM integration with TheHive](https://github.com/davidadabao/Wazuh-SIEM-TheHive-Integration)
   - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
   - [How to scan a network computer for Vulnerabilities](https://#)
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
