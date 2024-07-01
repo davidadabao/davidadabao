@@ -1,7 +1,7 @@
 <h2>Hi, I'm David! - SOC Analyst and Cybersecurity Enthusiast</h2> 
   
 - 🔭 I’m looking forward to securing an Entry level role as a SOC Analyst
-- 🌱 I’m currently learning more on SIEM, IDS & IPS tools, Penetration Testing, and NextGen Firewall
+- 🌱 I’m currently learning more on SIEM, IDS & IPS tools, Penetration Testing, Vulnerability Scanning and NextGen Firewall
 - 👯 I’m looking to collaborate on Cybersecurity Projects
 - 📫 How to reach me: <a href="www.linkedin.com/in/davidadabao">Linkedin</a>
 - 📫 How to reach me (Email): <a href="mailto:davidadabao@yahoo.com">Yahoomail</a>
