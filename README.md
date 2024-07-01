@@ -11,7 +11,7 @@
 <b></b>
   - [Wazuh SIEM integration with TheHive](https://github.com/davidadabao/Wazuh-SIEM-TheHive-Integration)
   - [Keylogger Project](https://github.com/davidadabao/Keylogger-Project)
-  - [How to scan a network computer for vulnerabilities](https://#)
+  - [How to Set Up Tenable Nessus to Scan a Windows 10 VM on VirtualBox for Vulnerabilities](https://github.com/davidadabao/How-to-Set-Up-Tenable-Nessus-to-Scan-a-Windows-10-VM-on-VirtualBox-for-Vulnerabilities)
   - [Port Scanner Project](https://github.com/davidadabao/PortScanner)
   - [Create a QR Code with Python](https://github.com/davidadabao/How-to-Create-a-QR-Code-with-Python)
 
